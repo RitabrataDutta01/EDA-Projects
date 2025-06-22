@@ -27,5 +27,4 @@ This repository contains exploratory data analysis (EDA) notebooks on various re
 - Visual storytelling through plots and insights
 
 > Note: Datasets are not included due to size. You can download them from:
-- [World Bank GDP data](https://data.worldbank.org)
 - [ML Job Data on Kaggle](https://www.kaggle.com)
