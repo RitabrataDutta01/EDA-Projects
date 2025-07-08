@@ -69,7 +69,7 @@ The trained model is saved as:
 ```python
 import joblib
 joblib.dump(pipeline, "bengaluru_price_model.pkl")
-
+```
 ---
 
 ## 🚀 Future Improvements
